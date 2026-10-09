@@ -4,7 +4,10 @@
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 
 const SITE = 'https://kindredhealth.in';
-const WHATSAPP = 'https://wa.me/918571894580?text=Hi%20Kindred';
+// The first WhatsApp message says where the person came from; the bot counts "website" and "guide"
+// (never which test). Keep these words in step with kindred-backend src/whatsapp/handler.js cameFrom.
+const WHATSAPP = 'https://wa.me/918571894580?text=Hi%20Kindred%20(guide)';
+const WHATSAPP_SITE = 'https://wa.me/918571894580?text=Hi%20Kindred%20(website)';
 const data = JSON.parse(readFileSync('data/tests.json', 'utf8'));
 const LANGS = ['en', 'hi'];
 
@@ -245,7 +248,7 @@ ${data.tests.map((t) => `- [${t.hi.name}](${SITE}${path('hi', t.slug)}): ${t.hi.
 ## Links
 
 - [Home](${SITE}/)
-- [Start on WhatsApp](${WHATSAPP})
+- [Start on WhatsApp](${WHATSAPP_SITE})
 - [Privacy Notice](https://daiict218.github.io/kindred-legal/)
 - Contact: ajaygaur319@gmail.com
 `);

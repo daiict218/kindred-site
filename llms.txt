@@ -69,6 +69,6 @@ Kindred is for adults in India who look after their own health and the health of
 ## Links
 
 - [Home](https://kindredhealth.in/)
-- [Start on WhatsApp](https://wa.me/918571894580?text=Hi%20Kindred)
+- [Start on WhatsApp](https://wa.me/918571894580?text=Hi%20Kindred%20(website))
 - [Privacy Notice](https://daiict218.github.io/kindred-legal/)
 - Contact: ajaygaur319@gmail.com
