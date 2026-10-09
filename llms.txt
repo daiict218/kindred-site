@@ -1,0 +1,74 @@
+# Kindred Health
+
+> Kindred is a family health records app for India. People keep their own and their family's lab reports, prescriptions and home BP and sugar readings in one place, send reports on WhatsApp, share a person's records with family, and, only if they choose, get each report explained by AI in plain words in English or 12 Indian languages. Records are stored in India.
+
+Kindred is for adults in India who look after their own health and the health of people they care for: parents, a spouse, children, friends.
+
+- Send a report (PDF or photo) to Kindred on WhatsApp, +91 85718 94580: Kindred files it under the right person and date.
+- See each test result over time, with the range printed on the report.
+- Log BP and sugar, with reminders for everyone who looks after that person.
+- Share a person's records with family by invite, and remove access at any time.
+- AI explanations are off until the user says yes. A person with their own Kindred account decides for their own records.
+- Records are stored in India. No ads, no trackers, records never sold. Delete any report, person or account at any time.
+- Kindred is not a medical device and does not diagnose or treat. In an emergency in India, call 112.
+
+## Lab test guides (English)
+
+- [Haemoglobin (Hb)](https://kindredhealth.in/tests/haemoglobin/): Haemoglobin is the protein in red blood cells that carries oxygen from the lungs to the rest of the body.
+- [Total WBC count (TLC)](https://kindredhealth.in/tests/wbc-tlc/): White blood cells (WBC) fight infection. The total count, also called TLC (total leucocyte count), shows how many are in your blood.
+- [Platelet count](https://kindredhealth.in/tests/platelet-count/): Platelets are small cells in the blood that help it clot and stop bleeding.
+- [ESR](https://kindredhealth.in/tests/esr/): ESR (erythrocyte sedimentation rate) shows how fast red blood cells settle in a tube in one hour. It goes up when there is inflammation somewhere in the body.
+- [Fasting blood sugar (FBS)](https://kindredhealth.in/tests/fasting-blood-sugar/): Fasting blood sugar is the glucose in your blood after at least 8 hours without food. It is a basic test for diabetes.
+- [Post-meal blood sugar (PPBS)](https://kindredhealth.in/tests/pp-blood-sugar/): Post-meal (post-prandial) blood sugar is the glucose in your blood 2 hours after you start a meal. It shows how well your body handles the sugar from food.
+- [HbA1c](https://kindredhealth.in/tests/hba1c/): HbA1c shows your average blood sugar over the last 2 to 3 months. Unlike a sugar test, one meal does not change it.
+- [Total cholesterol](https://kindredhealth.in/tests/total-cholesterol/): Total cholesterol is all the cholesterol in your blood: the 'bad' LDL, the 'good' HDL and the rest.
+- [LDL cholesterol](https://kindredhealth.in/tests/ldl-cholesterol/): LDL is called 'bad' cholesterol because it builds up in the walls of blood vessels.
+- [HDL cholesterol](https://kindredhealth.in/tests/hdl-cholesterol/): HDL is called 'good' cholesterol because it carries cholesterol away from the blood vessels.
+- [Triglycerides](https://kindredhealth.in/tests/triglycerides/): Triglycerides are a type of fat in the blood. They go up with sugar, refined flour (maida), alcohol and extra weight.
+- [Creatinine](https://kindredhealth.in/tests/creatinine/): Creatinine is a waste product from the muscles. The kidneys clean it out of the blood, so its level shows how well the kidneys work.
+- [Urea](https://kindredhealth.in/tests/urea/): Urea is a waste product made when the body breaks down protein. The kidneys remove it in the urine.
+- [Uric acid](https://kindredhealth.in/tests/uric-acid/): Uric acid is a waste product from the breakdown of purines. Purines are made in the body and are also in foods such as red meat, organ meat, some seafood and alcohol, especially beer.
+- [SGPT (ALT)](https://kindredhealth.in/tests/sgpt-alt/): SGPT, also called ALT, is an enzyme found mainly in the liver. It leaks into the blood when liver cells are irritated or damaged.
+- [SGOT (AST)](https://kindredhealth.in/tests/sgot-ast/): SGOT, also called AST, is an enzyme found in the liver, heart and muscles.
+- [Bilirubin](https://kindredhealth.in/tests/bilirubin/): Bilirubin is a yellow substance made when old red blood cells break down. The liver clears it into the bile.
+- [TSH (thyroid test)](https://kindredhealth.in/tests/tsh/): TSH (thyroid stimulating hormone) is made by a gland in the brain. It tells the thyroid how much hormone to make, so it is the main test of thyroid function.
+- [Vitamin D (25-OH)](https://kindredhealth.in/tests/vitamin-d/): Vitamin D helps the body take in calcium for strong bones and muscles. The blood test measures 25-hydroxy vitamin D.
+- [Vitamin B12](https://kindredhealth.in/tests/vitamin-b12/): Vitamin B12 is needed for healthy nerves and to make red blood cells. It comes mainly from milk, curd, paneer, eggs, fish and meat.
+- [Ferritin](https://kindredhealth.in/tests/ferritin/): Ferritin shows how much iron your body has stored. It is the best single test for iron deficiency.
+- [Calcium](https://kindredhealth.in/tests/calcium/): Calcium keeps bones and teeth strong and helps the nerves, muscles and heart work.
+- [CRP (C-reactive protein)](https://kindredhealth.in/tests/crp/): CRP is made by the liver when there is inflammation or infection in the body. It rises within hours.
+- [Rheumatoid factor (RF)](https://kindredhealth.in/tests/rheumatoid-factor/): Rheumatoid factor is an antibody. The test helps doctors check for rheumatoid arthritis, a disease in which the body's defence system attacks the joints.
+
+## Lab test guides (Hindi)
+
+- [हीमोग्लोबिन (Hb)](https://kindredhealth.in/hi/tests/haemoglobin/): हीमोग्लोबिन लाल रक्त कोशिकाओं में मौजूद प्रोटीन है, जो फेफड़ों से ऑक्सीजन लेकर पूरे शरीर तक पहुँचाता है।
+- [टोटल WBC काउंट (TLC)](https://kindredhealth.in/hi/tests/wbc-tlc/): सफ़ेद रक्त कोशिकाएँ (WBC) संक्रमण (इंफ़ेक्शन) से लड़ती हैं। टोटल काउंट, जिसे TLC (टोटल ल्यूकोसाइट काउंट) भी कहते हैं, बताता है कि खून में ये कितनी हैं।
+- [प्लेटलेट काउंट](https://kindredhealth.in/hi/tests/platelet-count/): प्लेटलेट्स खून की छोटी कोशिकाएँ हैं, जो खून का थक्का बनाकर ख़ून बहना रोकती हैं।
+- [ESR](https://kindredhealth.in/hi/tests/esr/): ESR (एरिथ्रोसाइट सेडिमेंटेशन रेट) बताता है कि एक घंटे में लाल रक्त कोशिकाएँ ट्यूब में कितनी तेज़ी से नीचे बैठती हैं। शरीर में कहीं सूजन हो तो यह बढ़ जाता है।
+- [फ़ास्टिंग ब्लड शुगर (FBS)](https://kindredhealth.in/hi/tests/fasting-blood-sugar/): फ़ास्टिंग ब्लड शुगर कम से कम 8 घंटे बिना खाए रहने के बाद खून में ग्लूकोज़ की मात्रा है। यह डायबिटीज़ की बुनियादी जाँच है।
+- [खाने के बाद ब्लड शुगर (PPBS)](https://kindredhealth.in/hi/tests/pp-blood-sugar/): खाने के बाद (पोस्ट-प्रैंडियल) ब्लड शुगर खाना शुरू करने के 2 घंटे बाद खून में ग्लूकोज़ की मात्रा है। यह बताता है कि शरीर खाने से आई शुगर को कितनी अच्छी तरह संभालता है।
+- [HbA1c](https://kindredhealth.in/hi/tests/hba1c/): HbA1c पिछले 2 से 3 महीनों की औसत ब्लड शुगर बताता है। शुगर टेस्ट की तरह यह एक बार के खाने से नहीं बदलता।
+- [टोटल कोलेस्ट्रॉल](https://kindredhealth.in/hi/tests/total-cholesterol/): टोटल कोलेस्ट्रॉल खून में मौजूद सारा कोलेस्ट्रॉल है: 'ख़राब' LDL, 'अच्छा' HDL और बाकी।
+- [LDL कोलेस्ट्रॉल](https://kindredhealth.in/hi/tests/ldl-cholesterol/): LDL को 'ख़राब' कोलेस्ट्रॉल कहते हैं, क्योंकि यह नसों की दीवारों में जमता है।
+- [HDL कोलेस्ट्रॉल](https://kindredhealth.in/hi/tests/hdl-cholesterol/): HDL को 'अच्छा' कोलेस्ट्रॉल कहते हैं, क्योंकि यह कोलेस्ट्रॉल को नसों से दूर ले जाता है।
+- [ट्राइग्लिसराइड्स](https://kindredhealth.in/hi/tests/triglycerides/): ट्राइग्लिसराइड्स खून में एक तरह की चर्बी (फ़ैट) है। यह चीनी, मैदा, शराब और ज़्यादा वज़न से बढ़ती है।
+- [क्रिएटिनिन](https://kindredhealth.in/hi/tests/creatinine/): क्रिएटिनिन मांसपेशियों से बनने वाला एक वेस्ट (कचरा) है। किडनी इसे खून से साफ़ करती है, इसलिए इसका स्तर बताता है कि किडनी कितनी अच्छी तरह काम कर रही है।
+- [यूरिया](https://kindredhealth.in/hi/tests/urea/): यूरिया तब बनने वाला वेस्ट है जब शरीर प्रोटीन को तोड़ता है। किडनी इसे पेशाब के ज़रिए निकालती है।
+- [यूरिक एसिड](https://kindredhealth.in/hi/tests/uric-acid/): यूरिक एसिड प्यूरीन टूटने से बनने वाला वेस्ट है। प्यूरीन शरीर में बनते हैं और लाल मांस, कलेजी जैसे अंग, कुछ सी-फ़ूड और शराब, ख़ासकर बीयर, में भी होते हैं।
+- [SGPT (ALT)](https://kindredhealth.in/hi/tests/sgpt-alt/): SGPT, जिसे ALT भी कहते हैं, ज़्यादातर लिवर में पाया जाने वाला एंज़ाइम है। जब लिवर की कोशिकाओं को तकलीफ़ या नुकसान होता है, तो यह खून में आ जाता है।
+- [SGOT (AST)](https://kindredhealth.in/hi/tests/sgot-ast/): SGOT, जिसे AST भी कहते हैं, लिवर, दिल और मांसपेशियों में पाया जाने वाला एंज़ाइम है।
+- [बिलीरुबिन](https://kindredhealth.in/hi/tests/bilirubin/): बिलीरुबिन एक पीला पदार्थ है जो पुरानी लाल रक्त कोशिकाओं के टूटने से बनता है। लिवर इसे पित्त (बाइल) में निकाल देता है।
+- [TSH (थायरॉइड जाँच)](https://kindredhealth.in/hi/tests/tsh/): TSH (थायरॉइड स्टिमुलेटिंग हार्मोन) दिमाग़ की एक ग्रंथि बनाती है। यह थायरॉइड को बताता है कि कितना हार्मोन बनाना है, इसलिए यह थायरॉइड की मुख्य जाँच है।
+- [विटामिन D (25-OH)](https://kindredhealth.in/hi/tests/vitamin-d/): विटामिन D शरीर को कैल्शियम लेने में मदद करता है, जिससे हड्डियाँ और मांसपेशियाँ मज़बूत रहती हैं। खून की जाँच 25-हाइड्रॉक्सी विटामिन D मापती है।
+- [विटामिन B12](https://kindredhealth.in/hi/tests/vitamin-b12/): विटामिन B12 नसों को स्वस्थ रखने और लाल रक्त कोशिकाएँ बनाने के लिए ज़रूरी है। यह मुख्य रूप से दूध, दही, पनीर, अंडे, मछली और मांस से मिलता है।
+- [फ़ेरिटिन](https://kindredhealth.in/hi/tests/ferritin/): फ़ेरिटिन बताता है कि शरीर में कितना आयरन जमा है। आयरन की कमी के लिए यह सबसे अच्छी एक जाँच है।
+- [कैल्शियम](https://kindredhealth.in/hi/tests/calcium/): कैल्शियम हड्डियों और दाँतों को मज़बूत रखता है और नसों, मांसपेशियों और दिल को काम करने में मदद करता है।
+- [CRP (सी-रिएक्टिव प्रोटीन)](https://kindredhealth.in/hi/tests/crp/): शरीर में सूजन या इंफ़ेक्शन होने पर लिवर CRP बनाता है। यह कुछ ही घंटों में बढ़ जाता है।
+- [रूमेटॉइड फ़ैक्टर (RF)](https://kindredhealth.in/hi/tests/rheumatoid-factor/): रूमेटॉइड फ़ैक्टर एक एंटीबॉडी है। यह जाँच डॉक्टर को रूमेटॉइड आर्थराइटिस देखने में मदद करती है, ऐसी बीमारी जिसमें शरीर की रक्षा-प्रणाली जोड़ों पर हमला करती है।
+
+## Links
+
+- [Home](https://kindredhealth.in/)
+- [Start on WhatsApp](https://wa.me/918571894580?text=Hi%20Kindred)
+- [Privacy Notice](https://daiict218.github.io/kindred-legal/)
+- Contact: ajaygaur319@gmail.com

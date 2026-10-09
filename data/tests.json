@@ -1,0 +1,1091 @@
+{
+  "updated": "2026-10-09",
+  "reviewedBy": null,
+  "reviewedOn": null,
+  "groups": [
+    {
+      "id": "blood",
+      "en": "Blood count (CBC)",
+      "hi": "ब्लड काउंट (CBC)"
+    },
+    {
+      "id": "sugar",
+      "en": "Sugar (diabetes)",
+      "hi": "शुगर (डायबिटीज़)"
+    },
+    {
+      "id": "lipids",
+      "en": "Cholesterol (lipid profile)",
+      "hi": "कोलेस्ट्रॉल (लिपिड प्रोफ़ाइल)"
+    },
+    {
+      "id": "kidney",
+      "en": "Kidney",
+      "hi": "किडनी"
+    },
+    {
+      "id": "liver",
+      "en": "Liver",
+      "hi": "लिवर"
+    },
+    {
+      "id": "thyroid",
+      "en": "Thyroid",
+      "hi": "थायरॉइड"
+    },
+    {
+      "id": "vitamins",
+      "en": "Vitamins and minerals",
+      "hi": "विटामिन और मिनरल"
+    },
+    {
+      "id": "inflammation",
+      "en": "Inflammation and joints",
+      "hi": "सूजन और जोड़"
+    }
+  ],
+  "tests": [
+    {
+      "slug": "haemoglobin",
+      "code": "HGB",
+      "group": "blood",
+      "en": {
+        "name": "Haemoglobin (Hb)",
+        "what": "Haemoglobin is the protein in red blood cells that carries oxygen from the lungs to the rest of the body.",
+        "range": [
+          "Men: about 13 to 17 g/dL",
+          "Women: about 12 to 15 g/dL",
+          "Pregnancy: 11 g/dL or more"
+        ],
+        "low": "Low haemoglobin is called anaemia. It can cause tiredness, weakness, breathlessness and a pale look. Common causes in India are low iron, low vitamin B12 or folate, blood loss (for example heavy periods or piles) and long-term illness.",
+        "high": "High haemoglobin is less common. It can come from smoking, too little water in the body, living at high altitude, or lung or heart disease, and rarely from a bone-marrow condition.",
+        "act": "See a doctor soon if haemoglobin is below about 8 g/dL, or if there is breathlessness, chest pain, fainting or black stools.",
+        "ask": [
+          "What is causing my low haemoglobin? Do I need iron, B12 or folate tests?",
+          "Should I take iron tablets, and for how long?",
+          "When should I repeat the test?"
+        ]
+      },
+      "hi": {
+        "name": "हीमोग्लोबिन (Hb)",
+        "what": "हीमोग्लोबिन लाल रक्त कोशिकाओं में मौजूद प्रोटीन है, जो फेफड़ों से ऑक्सीजन लेकर पूरे शरीर तक पहुँचाता है।",
+        "range": [
+          "पुरुष: लगभग 13 से 17 g/dL",
+          "महिलाएँ: लगभग 12 से 15 g/dL",
+          "गर्भावस्था: 11 g/dL या ज़्यादा"
+        ],
+        "low": "हीमोग्लोबिन कम होने को एनीमिया (खून की कमी) कहते हैं। इससे थकान, कमज़ोरी, साँस फूलना और चेहरा पीला दिखना हो सकता है। भारत में आम कारण हैं: आयरन की कमी, विटामिन B12 या फ़ोलेट की कमी, खून बहना (जैसे ज़्यादा पीरियड्स या बवासीर) और लंबी बीमारी।",
+        "high": "हीमोग्लोबिन ज़्यादा होना कम आम है। यह धूम्रपान, शरीर में पानी की कमी, ऊँचाई पर रहने, या फेफड़े या दिल की बीमारी से हो सकता है, और कभी-कभार बोन-मैरो की बीमारी से।",
+        "act": "अगर हीमोग्लोबिन लगभग 8 g/dL से कम है, या साँस फूलना, सीने में दर्द, बेहोशी या काला मल हो, तो जल्दी डॉक्टर को दिखाएँ।",
+        "ask": [
+          "मेरा हीमोग्लोबिन कम क्यों है? क्या आयरन, B12 या फ़ोलेट की जाँच करानी चाहिए?",
+          "क्या मुझे आयरन की गोली लेनी चाहिए, और कितने समय तक?",
+          "दोबारा जाँच कब करानी है?"
+        ]
+      },
+      "printed": [
+        "Haemoglobin",
+        "Hemoglobin",
+        "Hb",
+        "HGB",
+        "Hemoglobin (Hb)"
+      ]
+    },
+    {
+      "slug": "wbc-tlc",
+      "code": "WBC",
+      "group": "blood",
+      "en": {
+        "name": "Total WBC count (TLC)",
+        "what": "White blood cells (WBC) fight infection. The total count, also called TLC (total leucocyte count), shows how many are in your blood.",
+        "range": [
+          "Adults: about 4,000 to 11,000 per µL (4 to 11 thousand/µL)"
+        ],
+        "high": "A high count usually means the body is fighting an infection or inflammation. It can also rise with stress, steroid medicines and smoking, and rarely with blood disorders such as leukaemia.",
+        "low": "A low count can come from viral infections, some medicines (for example cancer treatment), low vitamin B12 or folate, or bone-marrow problems. With a low count, infections are more likely.",
+        "act": "See a doctor soon if the count is very high (above about 20,000) or very low (below about 2,000), or if there is a fever with it.",
+        "ask": [
+          "Is this from an infection? Do I need treatment?",
+          "Should we look at the types of white cells (differential count)?",
+          "When should I repeat the test?"
+        ]
+      },
+      "hi": {
+        "name": "टोटल WBC काउंट (TLC)",
+        "what": "सफ़ेद रक्त कोशिकाएँ (WBC) संक्रमण (इंफ़ेक्शन) से लड़ती हैं। टोटल काउंट, जिसे TLC (टोटल ल्यूकोसाइट काउंट) भी कहते हैं, बताता है कि खून में ये कितनी हैं।",
+        "range": [
+          "वयस्क: लगभग 4,000 से 11,000 प्रति µL (4 से 11 हज़ार/µL)"
+        ],
+        "high": "काउंट ज़्यादा होने का मतलब आमतौर पर यह है कि शरीर किसी इंफ़ेक्शन या सूजन से लड़ रहा है। यह तनाव, स्टेरॉयड दवाओं और धूम्रपान से भी बढ़ सकता है, और कभी-कभार ल्यूकेमिया जैसी खून की बीमारी से।",
+        "low": "काउंट कम होना वायरल इंफ़ेक्शन, कुछ दवाओं (जैसे कैंसर का इलाज), विटामिन B12 या फ़ोलेट की कमी, या बोन-मैरो की समस्या से हो सकता है। काउंट कम हो तो इंफ़ेक्शन जल्दी होते हैं।",
+        "act": "अगर काउंट बहुत ज़्यादा (लगभग 20,000 से ऊपर) या बहुत कम (लगभग 2,000 से नीचे) है, या साथ में बुखार है, तो जल्दी डॉक्टर को दिखाएँ।",
+        "ask": [
+          "क्या यह किसी इंफ़ेक्शन से है? क्या इलाज चाहिए?",
+          "क्या सफ़ेद कोशिकाओं के प्रकार (डिफ़रेंशियल काउंट) भी देखने चाहिए?",
+          "दोबारा जाँच कब करानी है?"
+        ]
+      },
+      "printed": [
+        "TLC",
+        "Total Leucocyte Count",
+        "Total Leukocyte Count",
+        "TLC (Total Leucocyte Count)",
+        "Total Leukocyte Count (TLC)",
+        "TLC (Total Leucocyte Count) /(WBC)",
+        "WBC"
+      ]
+    },
+    {
+      "slug": "platelet-count",
+      "code": "PLT",
+      "group": "blood",
+      "en": {
+        "name": "Platelet count",
+        "what": "Platelets are small cells in the blood that help it clot and stop bleeding.",
+        "range": [
+          "Adults: about 1.5 to 4.5 lakh per µL (150,000 to 450,000)"
+        ],
+        "low": "A low count is common with dengue and other viral fevers. It can also come from some medicines, liver disease or bone-marrow problems. A very low count can cause bleeding.",
+        "high": "A high count can follow an infection, inflammation, iron deficiency or surgery. Rarely, it comes from a bone-marrow condition.",
+        "act": "See a doctor the same day if platelets are below about 50,000, or if there is bleeding from the gums or nose, blood in urine or stool, or new red spots on the skin.",
+        "ask": [
+          "Why is my platelet count low or high?",
+          "When should I repeat the test?",
+          "Should I stop any medicine, such as painkillers or blood thinners?"
+        ]
+      },
+      "hi": {
+        "name": "प्लेटलेट काउंट",
+        "what": "प्लेटलेट्स खून की छोटी कोशिकाएँ हैं, जो खून का थक्का बनाकर ख़ून बहना रोकती हैं।",
+        "range": [
+          "वयस्क: लगभग 1.5 से 4.5 लाख प्रति µL (1,50,000 से 4,50,000)"
+        ],
+        "low": "डेंगू और दूसरे वायरल बुखार में प्लेटलेट्स कम होना आम है। यह कुछ दवाओं, लिवर की बीमारी या बोन-मैरो की समस्या से भी हो सकता है। बहुत कम प्लेटलेट्स से ख़ून बह सकता है।",
+        "high": "इंफ़ेक्शन, सूजन, आयरन की कमी या ऑपरेशन के बाद प्लेटलेट्स बढ़ सकते हैं। कभी-कभार यह बोन-मैरो की बीमारी से होता है।",
+        "act": "अगर प्लेटलेट्स लगभग 50,000 से कम हैं, या मसूड़ों या नाक से ख़ून, पेशाब या मल में ख़ून, या त्वचा पर नए लाल धब्बे हों, तो उसी दिन डॉक्टर को दिखाएँ।",
+        "ask": [
+          "मेरे प्लेटलेट्स कम या ज़्यादा क्यों हैं?",
+          "दोबारा जाँच कब करानी है?",
+          "क्या कोई दवा बंद करनी चाहिए, जैसे दर्द की दवा या ख़ून पतला करने की दवा?"
+        ]
+      },
+      "printed": [
+        "Platelets",
+        "PLT",
+        "Platelet"
+      ]
+    },
+    {
+      "slug": "esr",
+      "code": "ESR",
+      "group": "inflammation",
+      "en": {
+        "name": "ESR",
+        "what": "ESR (erythrocyte sedimentation rate) shows how fast red blood cells settle in a tube in one hour. It goes up when there is inflammation somewhere in the body.",
+        "range": [
+          "Men: usually up to about 15 to 20 mm/hr",
+          "Women: usually up to about 20 to 30 mm/hr",
+          "It rises a little with age"
+        ],
+        "high": "A high ESR can come from an infection (including tuberculosis), arthritis and other inflammatory diseases, anaemia, pregnancy, kidney disease and, less often, some cancers. ESR does not show where the problem is: the doctor reads it with your symptoms and other tests.",
+        "low": "A low ESR is rarely a concern.",
+        "act": "See a doctor if ESR is high and you have a fever, weight loss, night sweats, or painful, swollen joints.",
+        "ask": [
+          "What could be causing the inflammation?",
+          "Do I need a CRP test or other tests?",
+          "When should I repeat ESR?"
+        ]
+      },
+      "hi": {
+        "name": "ESR",
+        "what": "ESR (एरिथ्रोसाइट सेडिमेंटेशन रेट) बताता है कि एक घंटे में लाल रक्त कोशिकाएँ ट्यूब में कितनी तेज़ी से नीचे बैठती हैं। शरीर में कहीं सूजन हो तो यह बढ़ जाता है।",
+        "range": [
+          "पुरुष: आमतौर पर लगभग 15 से 20 mm/hr तक",
+          "महिलाएँ: आमतौर पर लगभग 20 से 30 mm/hr तक",
+          "उम्र के साथ यह थोड़ा बढ़ता है"
+        ],
+        "high": "ESR ज़्यादा होना इंफ़ेक्शन (टीबी समेत), गठिया और दूसरी सूजन वाली बीमारियों, एनीमिया, गर्भावस्था, किडनी की बीमारी और कम बार कुछ कैंसर से हो सकता है। ESR यह नहीं बताता कि समस्या कहाँ है: डॉक्टर इसे आपके लक्षणों और दूसरी जाँचों के साथ पढ़ते हैं।",
+        "low": "ESR कम होना शायद ही कभी चिंता की बात है।",
+        "act": "अगर ESR ज़्यादा है और बुखार, वज़न घटना, रात में पसीना, या जोड़ों में दर्द और सूजन है, तो डॉक्टर को दिखाएँ।",
+        "ask": [
+          "सूजन किस वजह से हो सकती है?",
+          "क्या CRP या दूसरी जाँच करानी चाहिए?",
+          "ESR दोबारा कब कराना है?"
+        ]
+      },
+      "printed": [
+        "Erythrocyte Sedimentation Rate",
+        "ESR (Westergren)"
+      ]
+    },
+    {
+      "slug": "fasting-blood-sugar",
+      "code": "GLU_F",
+      "group": "sugar",
+      "en": {
+        "name": "Fasting blood sugar (FBS)",
+        "what": "Fasting blood sugar is the glucose in your blood after at least 8 hours without food. It is a basic test for diabetes.",
+        "range": [
+          "Normal: 70 to 99 mg/dL",
+          "Prediabetes: 100 to 125 mg/dL",
+          "Diabetes: 126 mg/dL or more, on two separate tests"
+        ],
+        "high": "High fasting sugar can mean prediabetes or diabetes. Over years, high sugar can damage the eyes, kidneys, nerves, heart and feet. Walking, less sugar and refined flour (maida), and weight loss can bring it down; your doctor decides on medicine.",
+        "low": "Below 70 mg/dL is low sugar (hypoglycaemia). It can cause shaking, sweating, hunger and confusion, and is more common in people who take diabetes medicines.",
+        "act": "If sugar is below 70 mg/dL with symptoms, take sugar or juice now. See a doctor soon if fasting sugar is 126 mg/dL or more, or if sugar is above 250 mg/dL at any time.",
+        "ask": [
+          "Do I have prediabetes or diabetes?",
+          "Should I do an HbA1c test?",
+          "What should I change in my food and exercise?"
+        ]
+      },
+      "hi": {
+        "name": "फ़ास्टिंग ब्लड शुगर (FBS)",
+        "what": "फ़ास्टिंग ब्लड शुगर कम से कम 8 घंटे बिना खाए रहने के बाद खून में ग्लूकोज़ की मात्रा है। यह डायबिटीज़ की बुनियादी जाँच है।",
+        "range": [
+          "सामान्य: 70 से 99 mg/dL",
+          "प्रीडायबिटीज़: 100 से 125 mg/dL",
+          "डायबिटीज़: दो अलग जाँचों में 126 mg/dL या ज़्यादा"
+        ],
+        "high": "फ़ास्टिंग शुगर ज़्यादा होने का मतलब प्रीडायबिटीज़ या डायबिटीज़ हो सकता है। सालों तक शुगर ज़्यादा रहे तो आँखें, किडनी, नसें, दिल और पैर ख़राब हो सकते हैं। पैदल चलना, चीनी और मैदा कम करना, और वज़न घटाना शुगर कम कर सकता है; दवा का फ़ैसला डॉक्टर करते हैं।",
+        "low": "70 mg/dL से कम को लो शुगर (हाइपोग्लाइसीमिया) कहते हैं। इससे काँपना, पसीना, भूख और घबराहट हो सकती है। यह डायबिटीज़ की दवा लेने वालों में ज़्यादा होता है।",
+        "act": "अगर शुगर 70 mg/dL से कम है और लक्षण हैं, तो अभी चीनी या जूस लें। अगर फ़ास्टिंग शुगर 126 mg/dL या ज़्यादा है, या कभी भी 250 mg/dL से ऊपर है, तो जल्दी डॉक्टर को दिखाएँ।",
+        "ask": [
+          "क्या मुझे प्रीडायबिटीज़ या डायबिटीज़ है?",
+          "क्या HbA1c जाँच करानी चाहिए?",
+          "खाने और कसरत में क्या बदलाव करूँ?"
+        ]
+      },
+      "printed": [
+        "Glucose, fasting",
+        "Blood Sugar Fasting",
+        "Glucose Plasma, Fasting",
+        "Fasting Blood Sugar",
+        "FBS",
+        "Fasting Plasma Glucose"
+      ]
+    },
+    {
+      "slug": "pp-blood-sugar",
+      "code": "GLU_PP",
+      "group": "sugar",
+      "en": {
+        "name": "Post-meal blood sugar (PPBS)",
+        "what": "Post-meal (post-prandial) blood sugar is the glucose in your blood 2 hours after you start a meal. It shows how well your body handles the sugar from food.",
+        "range": [
+          "Normal: below 140 mg/dL",
+          "Prediabetes: 140 to 199 mg/dL",
+          "Diabetes: 200 mg/dL or more"
+        ],
+        "high": "High post-meal sugar is often the first sign of diabetes. It can be high even when fasting sugar is normal.",
+        "low": "Below 70 mg/dL after a meal is unusual. Tell your doctor, especially if you take diabetes medicine.",
+        "act": "See a doctor if post-meal sugar is often 200 mg/dL or more. If it is below 70 mg/dL with shaking or sweating, take sugar or juice now.",
+        "ask": [
+          "Is my post-meal sugar in the diabetes range?",
+          "Should I check HbA1c?",
+          "How should I change my meals?"
+        ]
+      },
+      "hi": {
+        "name": "खाने के बाद ब्लड शुगर (PPBS)",
+        "what": "खाने के बाद (पोस्ट-प्रैंडियल) ब्लड शुगर खाना शुरू करने के 2 घंटे बाद खून में ग्लूकोज़ की मात्रा है। यह बताता है कि शरीर खाने से आई शुगर को कितनी अच्छी तरह संभालता है।",
+        "range": [
+          "सामान्य: 140 mg/dL से कम",
+          "प्रीडायबिटीज़: 140 से 199 mg/dL",
+          "डायबिटीज़: 200 mg/dL या ज़्यादा"
+        ],
+        "high": "खाने के बाद शुगर ज़्यादा होना अक्सर डायबिटीज़ का पहला संकेत होता है। फ़ास्टिंग शुगर सामान्य हो, तब भी यह ज़्यादा हो सकती है।",
+        "low": "खाने के बाद 70 mg/dL से कम होना असामान्य है। डॉक्टर को बताएँ, ख़ासकर अगर आप डायबिटीज़ की दवा लेते हैं।",
+        "act": "अगर खाने के बाद शुगर अक्सर 200 mg/dL या ज़्यादा रहती है, तो डॉक्टर को दिखाएँ। अगर 70 mg/dL से कम है और काँपना या पसीना है, तो अभी चीनी या जूस लें।",
+        "ask": [
+          "क्या मेरी खाने के बाद की शुगर डायबिटीज़ की रेंज में है?",
+          "क्या HbA1c जाँच करानी चाहिए?",
+          "मुझे खाने में क्या बदलना चाहिए?"
+        ]
+      },
+      "printed": [
+        "Glucose, post-meal",
+        "Glucose PP",
+        "Blood Sugar PP",
+        "Post Prandial Blood Sugar",
+        "PPBS",
+        "Glucose Post Prandial",
+        "Glucose Plasma, PP",
+        "Blood Sugar Post Prandial"
+      ]
+    },
+    {
+      "slug": "hba1c",
+      "code": "HBA1C",
+      "group": "sugar",
+      "en": {
+        "name": "HbA1c",
+        "what": "HbA1c shows your average blood sugar over the last 2 to 3 months. Unlike a sugar test, one meal does not change it.",
+        "range": [
+          "Normal: below 5.7%",
+          "Prediabetes: 5.7% to 6.4%",
+          "Diabetes: 6.5% or more",
+          "With diabetes, doctors usually aim for below 7%"
+        ],
+        "high": "A high HbA1c means sugar has been high for weeks. The higher it is, the higher the risk of damage to the eyes, kidneys, nerves and heart. Bringing it down even by 1% lowers these risks.",
+        "low": "A low HbA1c is uncommon. It can come with anaemia, recent blood loss or some blood disorders, which can make the test less reliable.",
+        "act": "See a doctor soon if HbA1c is 6.5% or more for the first time, or 9% or more at any time.",
+        "ask": [
+          "What HbA1c should I aim for?",
+          "How often should I repeat it?",
+          "Do I need eye, kidney and foot checks?"
+        ]
+      },
+      "hi": {
+        "name": "HbA1c",
+        "what": "HbA1c पिछले 2 से 3 महीनों की औसत ब्लड शुगर बताता है। शुगर टेस्ट की तरह यह एक बार के खाने से नहीं बदलता।",
+        "range": [
+          "सामान्य: 5.7% से कम",
+          "प्रीडायबिटीज़: 5.7% से 6.4%",
+          "डायबिटीज़: 6.5% या ज़्यादा",
+          "डायबिटीज़ में डॉक्टर आमतौर पर 7% से कम का लक्ष्य रखते हैं"
+        ],
+        "high": "HbA1c ज़्यादा होने का मतलब है कि शुगर कई हफ़्तों से ज़्यादा रही है। यह जितना ज़्यादा, आँखों, किडनी, नसों और दिल को नुकसान का ख़तरा उतना ज़्यादा। इसे 1% भी कम करने से ये ख़तरे घटते हैं।",
+        "low": "HbA1c कम होना आम नहीं है। यह एनीमिया, हाल में ख़ून बहने या खून की कुछ बीमारियों के साथ हो सकता है, जिनसे जाँच का नतीजा कम भरोसेमंद हो जाता है।",
+        "act": "अगर पहली बार HbA1c 6.5% या ज़्यादा आया है, या कभी भी 9% या ज़्यादा है, तो जल्दी डॉक्टर को दिखाएँ।",
+        "ask": [
+          "मेरा HbA1c कितना होना चाहिए?",
+          "इसे कितनी बार दोबारा कराना चाहिए?",
+          "क्या आँख, किडनी और पैरों की जाँच करानी चाहिए?"
+        ]
+      },
+      "printed": [
+        "Glycosylated Hb (HbA1c)",
+        "Glycosylated Hemoglobin (HbA1c)",
+        "Glycosylated Haemoglobin",
+        "Glycated Hemoglobin"
+      ]
+    },
+    {
+      "slug": "total-cholesterol",
+      "code": "CHOL",
+      "group": "lipids",
+      "en": {
+        "name": "Total cholesterol",
+        "what": "Total cholesterol is all the cholesterol in your blood: the 'bad' LDL, the 'good' HDL and the rest.",
+        "range": [
+          "Desirable: below 200 mg/dL",
+          "Borderline high: 200 to 239 mg/dL",
+          "High: 240 mg/dL or more"
+        ],
+        "high": "High cholesterol has no symptoms, but over years it can block blood vessels and lead to a heart attack or stroke. Your LDL, HDL and other risks (BP, sugar, smoking, heart disease in the family) matter more than the total alone.",
+        "low": "Low cholesterol is rarely a problem by itself.",
+        "act": "Talk to a doctor if total cholesterol is 240 mg/dL or more, or LDL is high, especially with diabetes, high BP or heart disease in the family.",
+        "ask": [
+          "What is my overall heart risk?",
+          "Do I need medicine, or can I start with diet and exercise?",
+          "When should I repeat the lipid profile?"
+        ]
+      },
+      "hi": {
+        "name": "टोटल कोलेस्ट्रॉल",
+        "what": "टोटल कोलेस्ट्रॉल खून में मौजूद सारा कोलेस्ट्रॉल है: 'ख़राब' LDL, 'अच्छा' HDL और बाकी।",
+        "range": [
+          "सही: 200 mg/dL से कम",
+          "थोड़ा ज़्यादा: 200 से 239 mg/dL",
+          "ज़्यादा: 240 mg/dL या ऊपर"
+        ],
+        "high": "कोलेस्ट्रॉल ज़्यादा होने के कोई लक्षण नहीं होते, पर सालों में यह नसों को बंद कर सकता है और हार्ट अटैक या स्ट्रोक का कारण बन सकता है। अकेले टोटल से ज़्यादा ज़रूरी है आपका LDL, HDL और दूसरे ख़तरे (BP, शुगर, धूम्रपान, परिवार में दिल की बीमारी)।",
+        "low": "कोलेस्ट्रॉल कम होना अपने आप में शायद ही कभी समस्या है।",
+        "act": "अगर टोटल कोलेस्ट्रॉल 240 mg/dL या ज़्यादा है, या LDL ज़्यादा है, ख़ासकर डायबिटीज़, हाई BP या परिवार में दिल की बीमारी हो, तो डॉक्टर से बात करें।",
+        "ask": [
+          "मेरे दिल का कुल ख़तरा कितना है?",
+          "क्या दवा चाहिए, या पहले खाने और कसरत से शुरू करूँ?",
+          "लिपिड प्रोफ़ाइल दोबारा कब करानी है?"
+        ]
+      },
+      "printed": [
+        "Cholesterol",
+        "Cholesterol, Total",
+        "Serum Cholesterol"
+      ]
+    },
+    {
+      "slug": "ldl-cholesterol",
+      "code": "LDL",
+      "group": "lipids",
+      "en": {
+        "name": "LDL cholesterol",
+        "what": "LDL is called 'bad' cholesterol because it builds up in the walls of blood vessels.",
+        "range": [
+          "Optimal: below 100 mg/dL",
+          "Near optimal: 100 to 129 mg/dL",
+          "Borderline high: 130 to 159 mg/dL",
+          "High: 160 mg/dL or more",
+          "With diabetes or heart disease, doctors often aim much lower (below 70, or below 55)"
+        ],
+        "high": "High LDL raises the risk of heart attack and stroke over time. Less fried and packaged food, more fibre, exercise and not smoking help; many people also need a medicine such as a statin.",
+        "low": "Low LDL is usually good.",
+        "act": "Talk to a doctor if LDL is 160 mg/dL or more, or above your target if you have diabetes or heart disease.",
+        "ask": [
+          "What LDL target is right for me?",
+          "Do I need a statin?",
+          "How soon should I recheck?"
+        ]
+      },
+      "hi": {
+        "name": "LDL कोलेस्ट्रॉल",
+        "what": "LDL को 'ख़राब' कोलेस्ट्रॉल कहते हैं, क्योंकि यह नसों की दीवारों में जमता है।",
+        "range": [
+          "सबसे अच्छा: 100 mg/dL से कम",
+          "ठीक: 100 से 129 mg/dL",
+          "थोड़ा ज़्यादा: 130 से 159 mg/dL",
+          "ज़्यादा: 160 mg/dL या ऊपर",
+          "डायबिटीज़ या दिल की बीमारी में डॉक्टर अक्सर इससे काफ़ी कम का लक्ष्य रखते हैं (70 से कम, या 55 से कम)"
+        ],
+        "high": "LDL ज़्यादा होने से समय के साथ हार्ट अटैक और स्ट्रोक का ख़तरा बढ़ता है। तला और पैकेट वाला खाना कम करना, फ़ाइबर बढ़ाना, कसरत और धूम्रपान छोड़ना मदद करता है; कई लोगों को स्टैटिन जैसी दवा भी चाहिए होती है।",
+        "low": "LDL कम होना आमतौर पर अच्छा है।",
+        "act": "अगर LDL 160 mg/dL या ज़्यादा है, या डायबिटीज़ या दिल की बीमारी में आपके लक्ष्य से ऊपर है, तो डॉक्टर से बात करें।",
+        "ask": [
+          "मेरे लिए LDL का सही लक्ष्य क्या है?",
+          "क्या मुझे स्टैटिन चाहिए?",
+          "दोबारा जाँच कितनी जल्दी करानी है?"
+        ]
+      },
+      "printed": [
+        "LDL CHOLESTEROL - DIRECT",
+        "LDL Cholesterol, Calculated",
+        "LDL"
+      ]
+    },
+    {
+      "slug": "hdl-cholesterol",
+      "code": "HDL",
+      "group": "lipids",
+      "en": {
+        "name": "HDL cholesterol",
+        "what": "HDL is called 'good' cholesterol because it carries cholesterol away from the blood vessels.",
+        "range": [
+          "Men: 40 mg/dL or more",
+          "Women: 50 mg/dL or more",
+          "60 mg/dL or more gives extra protection"
+        ],
+        "low": "Low HDL raises heart risk. It is common in India and goes with little exercise, extra weight around the waist, smoking and high triglycerides. Exercise and stopping smoking raise it.",
+        "high": "High HDL is usually good.",
+        "act": "Talk to your doctor if HDL is low together with high LDL or triglycerides.",
+        "ask": [
+          "How can I raise my HDL?",
+          "What is my overall heart risk?"
+        ]
+      },
+      "hi": {
+        "name": "HDL कोलेस्ट्रॉल",
+        "what": "HDL को 'अच्छा' कोलेस्ट्रॉल कहते हैं, क्योंकि यह कोलेस्ट्रॉल को नसों से दूर ले जाता है।",
+        "range": [
+          "पुरुष: 40 mg/dL या ज़्यादा",
+          "महिलाएँ: 50 mg/dL या ज़्यादा",
+          "60 mg/dL या ज़्यादा अतिरिक्त सुरक्षा देता है"
+        ],
+        "low": "HDL कम होने से दिल का ख़तरा बढ़ता है। यह भारत में आम है और कम कसरत, कमर के आसपास ज़्यादा वज़न, धूम्रपान और ज़्यादा ट्राइग्लिसराइड्स के साथ होता है। कसरत और धूम्रपान छोड़ने से यह बढ़ता है।",
+        "high": "HDL ज़्यादा होना आमतौर पर अच्छा है।",
+        "act": "अगर HDL कम है और साथ में LDL या ट्राइग्लिसराइड्स ज़्यादा हैं, तो डॉक्टर से बात करें।",
+        "ask": [
+          "मैं अपना HDL कैसे बढ़ाऊँ?",
+          "मेरे दिल का कुल ख़तरा कितना है?"
+        ]
+      },
+      "printed": [
+        "HDL CHOLESTEROL - DIRECT",
+        "HDL"
+      ]
+    },
+    {
+      "slug": "triglycerides",
+      "code": "TG",
+      "group": "lipids",
+      "en": {
+        "name": "Triglycerides",
+        "what": "Triglycerides are a type of fat in the blood. They go up with sugar, refined flour (maida), alcohol and extra weight.",
+        "range": [
+          "Normal: below 150 mg/dL",
+          "Borderline high: 150 to 199 mg/dL",
+          "High: 200 to 499 mg/dL",
+          "Very high: 500 mg/dL or more"
+        ],
+        "high": "High triglycerides raise heart risk and often come with diabetes, fatty liver and extra weight. Very high levels (500 or more) can cause pancreatitis, a painful swelling of the pancreas.",
+        "low": "Low triglycerides are rarely a problem.",
+        "act": "See a doctor soon if triglycerides are 500 mg/dL or more, or if there is severe pain in the upper belly.",
+        "ask": [
+          "Was this a fasting test? Should I repeat it fasting?",
+          "Should I check my sugar and liver?",
+          "Do I need medicine?"
+        ]
+      },
+      "hi": {
+        "name": "ट्राइग्लिसराइड्स",
+        "what": "ट्राइग्लिसराइड्स खून में एक तरह की चर्बी (फ़ैट) है। यह चीनी, मैदा, शराब और ज़्यादा वज़न से बढ़ती है।",
+        "range": [
+          "सामान्य: 150 mg/dL से कम",
+          "थोड़ा ज़्यादा: 150 से 199 mg/dL",
+          "ज़्यादा: 200 से 499 mg/dL",
+          "बहुत ज़्यादा: 500 mg/dL या ऊपर"
+        ],
+        "high": "ट्राइग्लिसराइड्स ज़्यादा होने से दिल का ख़तरा बढ़ता है, और ये अक्सर डायबिटीज़, फ़ैटी लिवर और ज़्यादा वज़न के साथ होते हैं। बहुत ज़्यादा (500 या ऊपर) होने पर पैंक्रियाटाइटिस हो सकता है, यानी पैंक्रियास में दर्दभरी सूजन।",
+        "low": "ट्राइग्लिसराइड्स कम होना शायद ही कभी समस्या है।",
+        "act": "अगर ट्राइग्लिसराइड्स 500 mg/dL या ज़्यादा हैं, या पेट के ऊपरी हिस्से में तेज़ दर्द है, तो जल्दी डॉक्टर को दिखाएँ।",
+        "ask": [
+          "क्या यह जाँच खाली पेट हुई थी? क्या खाली पेट दोबारा करानी चाहिए?",
+          "क्या शुगर और लिवर की जाँच करानी चाहिए?",
+          "क्या दवा चाहिए?"
+        ]
+      },
+      "printed": [
+        "Triglyceride",
+        "Serum Triglycerides"
+      ]
+    },
+    {
+      "slug": "creatinine",
+      "code": "CREAT",
+      "group": "kidney",
+      "en": {
+        "name": "Creatinine",
+        "what": "Creatinine is a waste product from the muscles. The kidneys clean it out of the blood, so its level shows how well the kidneys work.",
+        "range": [
+          "Men: about 0.7 to 1.3 mg/dL",
+          "Women: about 0.6 to 1.1 mg/dL",
+          "It depends on muscle mass: it is lower in older and thin people"
+        ],
+        "high": "High creatinine can mean the kidneys are not cleaning the blood well. Causes include too little water, some painkillers, diabetes, high BP and kidney disease. Heavy exercise or a lot of meat before the test can raise it a little.",
+        "low": "Low creatinine usually just means low muscle mass.",
+        "act": "See a doctor soon if creatinine is above about 2 mg/dL or rising quickly, or if there is swelling, very little urine or breathlessness.",
+        "ask": [
+          "What is my eGFR (kidney function score)?",
+          "Should I stop any painkillers or other medicines?",
+          "Do I need a urine test for protein?"
+        ]
+      },
+      "hi": {
+        "name": "क्रिएटिनिन",
+        "what": "क्रिएटिनिन मांसपेशियों से बनने वाला एक वेस्ट (कचरा) है। किडनी इसे खून से साफ़ करती है, इसलिए इसका स्तर बताता है कि किडनी कितनी अच्छी तरह काम कर रही है।",
+        "range": [
+          "पुरुष: लगभग 0.7 से 1.3 mg/dL",
+          "महिलाएँ: लगभग 0.6 से 1.1 mg/dL",
+          "यह मांसपेशियों पर निर्भर करता है: बुज़ुर्गों और दुबले लोगों में कम होता है"
+        ],
+        "high": "क्रिएटिनिन ज़्यादा होने का मतलब हो सकता है कि किडनी खून ठीक से साफ़ नहीं कर रही। कारण हैं: पानी की कमी, कुछ दर्द की दवाएँ, डायबिटीज़, हाई BP और किडनी की बीमारी। जाँच से पहले भारी कसरत या ज़्यादा मांस खाने से यह थोड़ा बढ़ सकता है।",
+        "low": "क्रिएटिनिन कम होने का मतलब आमतौर पर बस कम मांसपेशियाँ है।",
+        "act": "अगर क्रिएटिनिन लगभग 2 mg/dL से ऊपर है या तेज़ी से बढ़ रहा है, या सूजन, बहुत कम पेशाब या साँस फूलना है, तो जल्दी डॉक्टर को दिखाएँ।",
+        "ask": [
+          "मेरा eGFR (किडनी फ़ंक्शन स्कोर) कितना है?",
+          "क्या कोई दर्द की दवा या दूसरी दवा बंद करनी चाहिए?",
+          "क्या पेशाब में प्रोटीन की जाँच करानी चाहिए?"
+        ]
+      },
+      "printed": [
+        "Serum Creatinine",
+        "S. Creatinine",
+        "Creatinine, Serum"
+      ]
+    },
+    {
+      "slug": "urea",
+      "code": "UREA",
+      "group": "kidney",
+      "en": {
+        "name": "Urea",
+        "what": "Urea is a waste product made when the body breaks down protein. The kidneys remove it in the urine.",
+        "range": [
+          "Adults: about 15 to 40 mg/dL (as blood urea)",
+          "Some labs report BUN (blood urea nitrogen) instead: about 7 to 20 mg/dL"
+        ],
+        "high": "High urea can come from too little water, a high-protein diet, bleeding in the stomach or gut, some medicines, or kidney disease. Doctors read it together with creatinine.",
+        "low": "Low urea can come from a low-protein diet, liver disease or pregnancy, and is rarely a concern.",
+        "act": "See a doctor soon if urea is high together with high creatinine, or with vomiting, confusion or very little urine.",
+        "ask": [
+          "Is my creatinine normal too?",
+          "Am I drinking enough water?",
+          "Could a medicine I take raise it?"
+        ]
+      },
+      "hi": {
+        "name": "यूरिया",
+        "what": "यूरिया तब बनने वाला वेस्ट है जब शरीर प्रोटीन को तोड़ता है। किडनी इसे पेशाब के ज़रिए निकालती है।",
+        "range": [
+          "वयस्क: लगभग 15 से 40 mg/dL (ब्लड यूरिया)",
+          "कुछ लैब इसकी जगह BUN (ब्लड यूरिया नाइट्रोजन) बताती हैं: लगभग 7 से 20 mg/dL"
+        ],
+        "high": "यूरिया ज़्यादा होना पानी की कमी, ज़्यादा प्रोटीन वाले खाने, पेट या आंत में ख़ून बहने, कुछ दवाओं या किडनी की बीमारी से हो सकता है। डॉक्टर इसे क्रिएटिनिन के साथ पढ़ते हैं।",
+        "low": "यूरिया कम होना कम प्रोटीन वाले खाने, लिवर की बीमारी या गर्भावस्था से हो सकता है, और शायद ही कभी चिंता की बात है।",
+        "act": "अगर यूरिया के साथ क्रिएटिनिन भी ज़्यादा है, या उल्टी, घबराहट या बहुत कम पेशाब है, तो जल्दी डॉक्टर को दिखाएँ।",
+        "ask": [
+          "क्या मेरा क्रिएटिनिन भी सामान्य है?",
+          "क्या मैं पर्याप्त पानी पी रहा/रही हूँ?",
+          "क्या मेरी कोई दवा इसे बढ़ा सकती है?"
+        ]
+      },
+      "printed": [
+        "Blood Urea",
+        "Serum Urea"
+      ]
+    },
+    {
+      "slug": "uric-acid",
+      "code": "URIC",
+      "group": "kidney",
+      "en": {
+        "name": "Uric acid",
+        "what": "Uric acid is a waste product from the breakdown of purines. Purines are made in the body and are also in foods such as red meat, organ meat, some seafood and alcohol, especially beer.",
+        "range": [
+          "Men: about 3.5 to 7.2 mg/dL",
+          "Women: about 2.6 to 6.0 mg/dL"
+        ],
+        "high": "High uric acid can cause gout (a sudden, very painful swelling of a joint, often the big toe) and kidney stones. Many people with high uric acid have no symptoms and do not need medicine.",
+        "low": "Low uric acid is rarely a concern.",
+        "act": "See a doctor if you have a sudden painful, red, swollen joint, or high uric acid with kidney stones.",
+        "ask": [
+          "Do I need medicine, or only changes in food and drink?",
+          "Which foods and drinks should I limit?"
+        ]
+      },
+      "hi": {
+        "name": "यूरिक एसिड",
+        "what": "यूरिक एसिड प्यूरीन टूटने से बनने वाला वेस्ट है। प्यूरीन शरीर में बनते हैं और लाल मांस, कलेजी जैसे अंग, कुछ सी-फ़ूड और शराब, ख़ासकर बीयर, में भी होते हैं।",
+        "range": [
+          "पुरुष: लगभग 3.5 से 7.2 mg/dL",
+          "महिलाएँ: लगभग 2.6 से 6.0 mg/dL"
+        ],
+        "high": "यूरिक एसिड ज़्यादा होने से गाउट (किसी जोड़ में अचानक बहुत दर्दभरी सूजन, अक्सर पैर का अँगूठा) और किडनी में पथरी हो सकती है। यूरिक एसिड ज़्यादा वाले कई लोगों में कोई लक्षण नहीं होते और उन्हें दवा की ज़रूरत नहीं होती।",
+        "low": "यूरिक एसिड कम होना शायद ही कभी चिंता की बात है।",
+        "act": "अगर किसी जोड़ में अचानक दर्द, लाली और सूजन है, या यूरिक एसिड ज़्यादा है और पथरी है, तो डॉक्टर को दिखाएँ।",
+        "ask": [
+          "क्या दवा चाहिए, या सिर्फ़ खाने-पीने में बदलाव?",
+          "कौन-सी चीज़ें कम खानी-पीनी चाहिए?"
+        ]
+      },
+      "printed": [
+        "Serum Uric Acid"
+      ]
+    },
+    {
+      "slug": "sgpt-alt",
+      "code": "ALT",
+      "group": "liver",
+      "en": {
+        "name": "SGPT (ALT)",
+        "what": "SGPT, also called ALT, is an enzyme found mainly in the liver. It leaks into the blood when liver cells are irritated or damaged.",
+        "range": [
+          "Adults: usually up to about 40 U/L (labs differ: some use 35 or 50)"
+        ],
+        "high": "A slightly high SGPT is common with fatty liver, alcohol, extra weight and some medicines. Much higher values can come from hepatitis (liver infection) or other liver disease.",
+        "low": "A low SGPT is not a concern.",
+        "act": "See a doctor soon if SGPT is more than 3 times the upper limit, or if there are yellow eyes or skin, dark urine, or pain on the right side of the upper belly.",
+        "ask": [
+          "Do I have fatty liver? Do I need an ultrasound?",
+          "Should I test for hepatitis B and C?",
+          "Could any of my medicines cause this?"
+        ]
+      },
+      "hi": {
+        "name": "SGPT (ALT)",
+        "what": "SGPT, जिसे ALT भी कहते हैं, ज़्यादातर लिवर में पाया जाने वाला एंज़ाइम है। जब लिवर की कोशिकाओं को तकलीफ़ या नुकसान होता है, तो यह खून में आ जाता है।",
+        "range": [
+          "वयस्क: आमतौर पर लगभग 40 U/L तक (लैब के हिसाब से बदलता है: कुछ 35 या 50 मानती हैं)"
+        ],
+        "high": "SGPT थोड़ा ज़्यादा होना फ़ैटी लिवर, शराब, ज़्यादा वज़न और कुछ दवाओं से आम है। बहुत ज़्यादा होना हेपेटाइटिस (लिवर का इंफ़ेक्शन) या लिवर की दूसरी बीमारी से हो सकता है।",
+        "low": "SGPT कम होना चिंता की बात नहीं है।",
+        "act": "अगर SGPT ऊपरी सीमा से 3 गुना से ज़्यादा है, या आँखें या त्वचा पीली हैं, पेशाब गहरा है, या पेट के दाएँ ऊपरी हिस्से में दर्द है, तो जल्दी डॉक्टर को दिखाएँ।",
+        "ask": [
+          "क्या मुझे फ़ैटी लिवर है? क्या अल्ट्रासाउंड कराना चाहिए?",
+          "क्या हेपेटाइटिस B और C की जाँच करानी चाहिए?",
+          "क्या मेरी कोई दवा इसकी वजह हो सकती है?"
+        ]
+      },
+      "printed": [
+        "ALT (SGPT)",
+        "ALT",
+        "SGPT",
+        "Alanine Aminotransferase"
+      ]
+    },
+    {
+      "slug": "sgot-ast",
+      "code": "AST",
+      "group": "liver",
+      "en": {
+        "name": "SGOT (AST)",
+        "what": "SGOT, also called AST, is an enzyme found in the liver, heart and muscles.",
+        "range": [
+          "Adults: usually up to about 40 U/L (labs differ)"
+        ],
+        "high": "High SGOT can come from liver problems (fatty liver, alcohol, hepatitis), and also from a muscle injury or heavy exercise. If SGOT is much higher than SGPT, alcohol is a common cause.",
+        "low": "A low SGOT is not a concern.",
+        "act": "See a doctor soon if SGOT is more than 3 times the upper limit, or if there are yellow eyes or skin, or dark urine.",
+        "ask": [
+          "Is my SGPT also high?",
+          "Could exercise or a muscle injury explain it?",
+          "Do I need more liver tests?"
+        ]
+      },
+      "hi": {
+        "name": "SGOT (AST)",
+        "what": "SGOT, जिसे AST भी कहते हैं, लिवर, दिल और मांसपेशियों में पाया जाने वाला एंज़ाइम है।",
+        "range": [
+          "वयस्क: आमतौर पर लगभग 40 U/L तक (लैब के हिसाब से बदलता है)"
+        ],
+        "high": "SGOT ज़्यादा होना लिवर की समस्या (फ़ैटी लिवर, शराब, हेपेटाइटिस) से हो सकता है, और मांसपेशियों की चोट या भारी कसरत से भी। अगर SGOT, SGPT से काफ़ी ज़्यादा है, तो शराब एक आम वजह है।",
+        "low": "SGOT कम होना चिंता की बात नहीं है।",
+        "act": "अगर SGOT ऊपरी सीमा से 3 गुना से ज़्यादा है, या आँखें या त्वचा पीली हैं, या पेशाब गहरा है, तो जल्दी डॉक्टर को दिखाएँ।",
+        "ask": [
+          "क्या मेरा SGPT भी ज़्यादा है?",
+          "क्या कसरत या मांसपेशी की चोट इसकी वजह हो सकती है?",
+          "क्या लिवर की और जाँच चाहिए?"
+        ]
+      },
+      "printed": [
+        "AST (SGOT)",
+        "AST",
+        "SGOT",
+        "Aspartate Aminotransferase"
+      ]
+    },
+    {
+      "slug": "bilirubin",
+      "code": "BILI_T",
+      "group": "liver",
+      "en": {
+        "name": "Bilirubin",
+        "what": "Bilirubin is a yellow substance made when old red blood cells break down. The liver clears it into the bile.",
+        "range": [
+          "Total bilirubin: about 0.3 to 1.2 mg/dL",
+          "Direct bilirubin: up to about 0.3 mg/dL"
+        ],
+        "high": "High bilirubin causes jaundice (yellow eyes and skin). It can come from hepatitis, a blocked bile duct (for example from gallstones) or fast breakdown of red cells. A small rise in indirect bilirubin with normal liver enzymes is often Gilbert's syndrome, a harmless condition that runs in families.",
+        "low": "A low bilirubin is not a concern.",
+        "act": "See a doctor soon if there are yellow eyes or skin, dark urine, pale stools or belly pain.",
+        "ask": [
+          "Is it direct or indirect bilirubin that is high?",
+          "Are my liver enzymes normal?",
+          "Do I need an ultrasound?"
+        ]
+      },
+      "hi": {
+        "name": "बिलीरुबिन",
+        "what": "बिलीरुबिन एक पीला पदार्थ है जो पुरानी लाल रक्त कोशिकाओं के टूटने से बनता है। लिवर इसे पित्त (बाइल) में निकाल देता है।",
+        "range": [
+          "टोटल बिलीरुबिन: लगभग 0.3 से 1.2 mg/dL",
+          "डायरेक्ट बिलीरुबिन: लगभग 0.3 mg/dL तक"
+        ],
+        "high": "बिलीरुबिन ज़्यादा होने से पीलिया (आँखें और त्वचा पीली) होता है। यह हेपेटाइटिस, पित्त की नली बंद होने (जैसे पथरी से) या लाल कोशिकाओं के तेज़ी से टूटने से हो सकता है। अगर सिर्फ़ इनडायरेक्ट बिलीरुबिन थोड़ा बढ़ा है और लिवर एंज़ाइम सामान्य हैं, तो यह अक्सर गिल्बर्ट सिंड्रोम होता है: एक हानिरहित, ख़ानदानी स्थिति।",
+        "low": "बिलीरुबिन कम होना चिंता की बात नहीं है।",
+        "act": "अगर आँखें या त्वचा पीली हैं, पेशाब गहरा है, मल का रंग हल्का है या पेट में दर्द है, तो जल्दी डॉक्टर को दिखाएँ।",
+        "ask": [
+          "डायरेक्ट या इनडायरेक्ट, कौन-सा बिलीरुबिन ज़्यादा है?",
+          "क्या मेरे लिवर एंज़ाइम सामान्य हैं?",
+          "क्या अल्ट्रासाउंड कराना चाहिए?"
+        ]
+      },
+      "printed": [
+        "Bilirubin, total",
+        "Total Bilirubin",
+        "Serum Bilirubin Total"
+      ]
+    },
+    {
+      "slug": "tsh",
+      "code": "TSH",
+      "group": "thyroid",
+      "en": {
+        "name": "TSH (thyroid test)",
+        "what": "TSH (thyroid stimulating hormone) is made by a gland in the brain. It tells the thyroid how much hormone to make, so it is the main test of thyroid function.",
+        "range": [
+          "Adults: about 0.4 to 4.0 µIU/mL (labs differ a little)",
+          "In pregnancy, the targets are lower and your doctor sets them"
+        ],
+        "high": "A high TSH usually means an underactive thyroid (hypothyroidism): tiredness, weight gain, feeling cold, constipation, dry skin, heavy periods. It is common in Indian women and is treated with a daily tablet.",
+        "low": "A low TSH usually means an overactive thyroid (hyperthyroidism): weight loss, fast heartbeat, sweating, shaking, feeling anxious. It can also come from too high a dose of thyroid tablets.",
+        "act": "See a doctor if TSH is outside the range, and soon if you are pregnant or planning a pregnancy.",
+        "ask": [
+          "Do I need T3 and T4 tests too?",
+          "Do I need a tablet, or should we recheck first?",
+          "If I take a thyroid tablet, is my dose right?"
+        ]
+      },
+      "hi": {
+        "name": "TSH (थायरॉइड जाँच)",
+        "what": "TSH (थायरॉइड स्टिमुलेटिंग हार्मोन) दिमाग़ की एक ग्रंथि बनाती है। यह थायरॉइड को बताता है कि कितना हार्मोन बनाना है, इसलिए यह थायरॉइड की मुख्य जाँच है।",
+        "range": [
+          "वयस्क: लगभग 0.4 से 4.0 µIU/mL (लैब के हिसाब से थोड़ा बदलता है)",
+          "गर्भावस्था में लक्ष्य कम होते हैं और डॉक्टर तय करते हैं"
+        ],
+        "high": "TSH ज़्यादा होने का मतलब आमतौर पर थायरॉइड कम काम कर रहा है (हाइपोथायरॉइडिज़्म): थकान, वज़न बढ़ना, ठंड लगना, कब्ज़, सूखी त्वचा, ज़्यादा पीरियड्स। यह भारतीय महिलाओं में आम है और रोज़ एक गोली से इसका इलाज होता है।",
+        "low": "TSH कम होने का मतलब आमतौर पर थायरॉइड ज़्यादा काम कर रहा है (हाइपरथायरॉइडिज़्म): वज़न घटना, तेज़ धड़कन, पसीना, काँपना, बेचैनी। थायरॉइड की गोली की ज़्यादा ख़ुराक से भी यह हो सकता है।",
+        "act": "अगर TSH रेंज से बाहर है तो डॉक्टर को दिखाएँ, और जल्दी दिखाएँ अगर आप गर्भवती हैं या गर्भ की योजना बना रही हैं।",
+        "ask": [
+          "क्या T3 और T4 जाँच भी करानी चाहिए?",
+          "क्या गोली चाहिए, या पहले दोबारा जाँच करें?",
+          "अगर मैं थायरॉइड की गोली लेता/लेती हूँ, तो क्या ख़ुराक सही है?"
+        ]
+      },
+      "printed": [
+        "TSH",
+        "TSH (3rd Gen, Ultrasensitive)",
+        "TSH (Ultrasensitive)",
+        "TSH - ULTRASENSITIVE C.L.I.A",
+        "Thyroid Stimulating Hormone",
+        "TSH 3rd Generation",
+        "Ultrasensitive TSH"
+      ]
+    },
+    {
+      "slug": "vitamin-d",
+      "code": "VITD",
+      "group": "vitamins",
+      "en": {
+        "name": "Vitamin D (25-OH)",
+        "what": "Vitamin D helps the body take in calcium for strong bones and muscles. The blood test measures 25-hydroxy vitamin D.",
+        "range": [
+          "Deficient: below 20 ng/mL",
+          "Insufficient: 20 to 29 ng/mL",
+          "Enough: 30 to 100 ng/mL",
+          "Too high: above 100 ng/mL"
+        ],
+        "low": "Low vitamin D is very common in India, even with plenty of sunshine. It can cause bone and muscle pain and weakness and, over years, weak bones (osteoporosis).",
+        "high": "High vitamin D almost always comes from taking too many supplements. Very high levels can raise calcium and harm the kidneys.",
+        "act": "Ask your doctor for the right dose before you take high-dose vitamin D (for example 60,000 IU sachets or capsules).",
+        "ask": [
+          "What dose should I take, and for how long?",
+          "When should I recheck?",
+          "Should I check my calcium too?"
+        ]
+      },
+      "hi": {
+        "name": "विटामिन D (25-OH)",
+        "what": "विटामिन D शरीर को कैल्शियम लेने में मदद करता है, जिससे हड्डियाँ और मांसपेशियाँ मज़बूत रहती हैं। खून की जाँच 25-हाइड्रॉक्सी विटामिन D मापती है।",
+        "range": [
+          "कमी: 20 ng/mL से कम",
+          "अपर्याप्त: 20 से 29 ng/mL",
+          "पर्याप्त: 30 से 100 ng/mL",
+          "बहुत ज़्यादा: 100 ng/mL से ऊपर"
+        ],
+        "low": "भारत में धूप होते हुए भी विटामिन D की कमी बहुत आम है। इससे हड्डियों और मांसपेशियों में दर्द और कमज़ोरी हो सकती है, और सालों में हड्डियाँ कमज़ोर (ऑस्टियोपोरोसिस) हो सकती हैं।",
+        "high": "विटामिन D ज़्यादा होना लगभग हमेशा ज़्यादा सप्लीमेंट लेने से होता है। बहुत ज़्यादा होने पर कैल्शियम बढ़ सकता है और किडनी को नुकसान हो सकता है।",
+        "act": "ज़्यादा ख़ुराक वाला विटामिन D (जैसे 60,000 IU के सैशे या कैप्सूल) लेने से पहले डॉक्टर से सही ख़ुराक पूछें।",
+        "ask": [
+          "कितनी ख़ुराक लूँ, और कितने समय तक?",
+          "दोबारा जाँच कब कराऊँ?",
+          "क्या कैल्शियम की जाँच भी करानी चाहिए?"
+        ]
+      },
+      "printed": [
+        "Vitamin D, 25 Hydroxy",
+        "25-OH Vitamin D",
+        "25 Hydroxy Vitamin D",
+        "Vitamin D Total",
+        "Vitamin D"
+      ]
+    },
+    {
+      "slug": "vitamin-b12",
+      "code": "B12",
+      "group": "vitamins",
+      "en": {
+        "name": "Vitamin B12",
+        "what": "Vitamin B12 is needed for healthy nerves and to make red blood cells. It comes mainly from milk, curd, paneer, eggs, fish and meat.",
+        "range": [
+          "Usual: about 200 to 900 pg/mL",
+          "Low: below 200 pg/mL; 200 to 300 is borderline"
+        ],
+        "low": "Low B12 is common in vegetarians and in people who take metformin or acidity medicines for a long time. It can cause tiredness, anaemia, tingling or numbness in the hands and feet, and poor memory.",
+        "high": "High B12 usually comes from supplements or injections and is rarely a concern by itself.",
+        "act": "See a doctor if B12 is low and you have tingling, numbness, poor balance or memory problems.",
+        "ask": [
+          "Do I need tablets or injections?",
+          "Should I check my haemoglobin and folate?",
+          "Could a medicine I take be the cause?"
+        ]
+      },
+      "hi": {
+        "name": "विटामिन B12",
+        "what": "विटामिन B12 नसों को स्वस्थ रखने और लाल रक्त कोशिकाएँ बनाने के लिए ज़रूरी है। यह मुख्य रूप से दूध, दही, पनीर, अंडे, मछली और मांस से मिलता है।",
+        "range": [
+          "सामान्य: लगभग 200 से 900 pg/mL",
+          "कम: 200 pg/mL से नीचे; 200 से 300 सीमा पर"
+        ],
+        "low": "B12 की कमी शाकाहारियों में और लंबे समय तक मेटफ़ॉर्मिन या एसिडिटी की दवा लेने वालों में आम है। इससे थकान, एनीमिया, हाथ-पैरों में झुनझुनी या सुन्नपन, और याददाश्त कमज़ोर होना हो सकता है।",
+        "high": "B12 ज़्यादा होना आमतौर पर सप्लीमेंट या इंजेक्शन से होता है और अपने आप में शायद ही कभी चिंता की बात है।",
+        "act": "अगर B12 कम है और झुनझुनी, सुन्नपन, संतुलन बिगड़ना या याददाश्त की समस्या है, तो डॉक्टर को दिखाएँ।",
+        "ask": [
+          "क्या गोली चाहिए या इंजेक्शन?",
+          "क्या हीमोग्लोबिन और फ़ोलेट की जाँच करानी चाहिए?",
+          "क्या मेरी कोई दवा इसकी वजह हो सकती है?"
+        ]
+      },
+      "printed": [
+        "Vitamin B12 Level",
+        "Vit B12",
+        "Cyanocobalamin",
+        "Serum B12"
+      ]
+    },
+    {
+      "slug": "ferritin",
+      "code": "FERRITIN",
+      "group": "vitamins",
+      "en": {
+        "name": "Ferritin",
+        "what": "Ferritin shows how much iron your body has stored. It is the best single test for iron deficiency.",
+        "range": [
+          "Men: about 30 to 400 ng/mL",
+          "Women: about 15 to 150 ng/mL",
+          "Below about 30 ng/mL usually means low iron stores"
+        ],
+        "low": "Low ferritin means low iron stores, the most common cause of anaemia in India. Causes include too little iron in food, heavy periods, pregnancy and blood loss from the gut.",
+        "high": "High ferritin can come from inflammation, infection, fatty liver or alcohol, and rarely from iron overload. By itself, it does not mean there is too much iron.",
+        "act": "See a doctor if ferritin is low with tiredness or low haemoglobin, or very high (above about 1,000 ng/mL).",
+        "ask": [
+          "Do I need iron tablets or an iron injection?",
+          "What is causing my low iron?",
+          "When should I recheck?"
+        ]
+      },
+      "hi": {
+        "name": "फ़ेरिटिन",
+        "what": "फ़ेरिटिन बताता है कि शरीर में कितना आयरन जमा है। आयरन की कमी के लिए यह सबसे अच्छी एक जाँच है।",
+        "range": [
+          "पुरुष: लगभग 30 से 400 ng/mL",
+          "महिलाएँ: लगभग 15 से 150 ng/mL",
+          "लगभग 30 ng/mL से कम का मतलब आमतौर पर आयरन का भंडार कम है"
+        ],
+        "low": "फ़ेरिटिन कम होने का मतलब आयरन का भंडार कम है, जो भारत में एनीमिया की सबसे आम वजह है। कारण हैं: खाने में आयरन की कमी, ज़्यादा पीरियड्स, गर्भावस्था और आंत से ख़ून बहना।",
+        "high": "फ़ेरिटिन ज़्यादा होना सूजन, इंफ़ेक्शन, फ़ैटी लिवर या शराब से हो सकता है, और कभी-कभार शरीर में ज़्यादा आयरन से। अकेले इससे यह नहीं माना जाता कि आयरन ज़्यादा है।",
+        "act": "अगर फ़ेरिटिन कम है और थकान या हीमोग्लोबिन कम है, या बहुत ज़्यादा (लगभग 1,000 ng/mL से ऊपर) है, तो डॉक्टर को दिखाएँ।",
+        "ask": [
+          "क्या आयरन की गोली चाहिए या आयरन का इंजेक्शन?",
+          "मेरे आयरन की कमी की वजह क्या है?",
+          "दोबारा जाँच कब कराऊँ?"
+        ]
+      },
+      "printed": [
+        "Serum Ferritin"
+      ]
+    },
+    {
+      "slug": "calcium",
+      "code": "CA",
+      "group": "vitamins",
+      "en": {
+        "name": "Calcium",
+        "what": "Calcium keeps bones and teeth strong and helps the nerves, muscles and heart work.",
+        "range": [
+          "Adults: about 8.5 to 10.5 mg/dL"
+        ],
+        "low": "Low calcium can come from low vitamin D, low magnesium, kidney disease or low albumin in the blood. It can cause muscle cramps and tingling around the mouth and in the fingers.",
+        "high": "High calcium can come from an overactive parathyroid gland, too much vitamin D or calcium supplement, and some cancers. It can cause thirst, constipation, tiredness and kidney stones.",
+        "act": "See a doctor soon if calcium is below about 7.5 or above about 12 mg/dL, or if there are muscle spasms or confusion.",
+        "ask": [
+          "Should I check vitamin D and albumin?",
+          "Should I change my calcium or vitamin D supplements?"
+        ]
+      },
+      "hi": {
+        "name": "कैल्शियम",
+        "what": "कैल्शियम हड्डियों और दाँतों को मज़बूत रखता है और नसों, मांसपेशियों और दिल को काम करने में मदद करता है।",
+        "range": [
+          "वयस्क: लगभग 8.5 से 10.5 mg/dL"
+        ],
+        "low": "कैल्शियम कम होना विटामिन D की कमी, मैग्नीशियम की कमी, किडनी की बीमारी या खून में एल्ब्यूमिन कम होने से हो सकता है। इससे मांसपेशियों में ऐंठन और मुँह के आसपास और उँगलियों में झुनझुनी हो सकती है।",
+        "high": "कैल्शियम ज़्यादा होना पैराथायरॉइड ग्रंथि के ज़्यादा काम करने, ज़्यादा विटामिन D या कैल्शियम सप्लीमेंट, और कुछ कैंसर से हो सकता है। इससे प्यास, कब्ज़, थकान और पथरी हो सकती है।",
+        "act": "अगर कैल्शियम लगभग 7.5 से कम या लगभग 12 mg/dL से ज़्यादा है, या मांसपेशियों में ऐंठन या घबराहट है, तो जल्दी डॉक्टर को दिखाएँ।",
+        "ask": [
+          "क्या विटामिन D और एल्ब्यूमिन की जाँच करानी चाहिए?",
+          "क्या कैल्शियम या विटामिन D सप्लीमेंट बदलना चाहिए?"
+        ]
+      },
+      "printed": [
+        "Calcium Serum",
+        "Calcium, Total",
+        "Serum Calcium",
+        "Total Calcium"
+      ]
+    },
+    {
+      "slug": "crp",
+      "code": "CRP",
+      "group": "inflammation",
+      "en": {
+        "name": "CRP (C-reactive protein)",
+        "what": "CRP is made by the liver when there is inflammation or infection in the body. It rises within hours.",
+        "range": [
+          "Usually below about 5 mg/L (labs differ: some use 6 or 10)",
+          "hs-CRP, a more sensitive version, is used for heart risk: below 1 mg/L is low risk, above 3 mg/L is higher risk"
+        ],
+        "high": "A high CRP means inflammation somewhere: an infection, an injury, arthritis or another inflammatory disease. Very high values (above about 100 mg/L) often mean a bacterial infection. CRP does not show where the problem is.",
+        "low": "A low CRP is normal.",
+        "act": "See a doctor soon if CRP is high with a fever, or above about 50 mg/L.",
+        "ask": [
+          "What could be causing the inflammation?",
+          "Do I need antibiotics or other tests?",
+          "When should CRP be repeated?"
+        ]
+      },
+      "hi": {
+        "name": "CRP (सी-रिएक्टिव प्रोटीन)",
+        "what": "शरीर में सूजन या इंफ़ेक्शन होने पर लिवर CRP बनाता है। यह कुछ ही घंटों में बढ़ जाता है।",
+        "range": [
+          "आमतौर पर लगभग 5 mg/L से कम (लैब के हिसाब से बदलता है: कुछ 6 या 10 मानती हैं)",
+          "hs-CRP, इसका ज़्यादा संवेदनशील रूप, दिल के ख़तरे के लिए होता है: 1 mg/L से कम कम ख़तरा, 3 mg/L से ऊपर ज़्यादा ख़तरा"
+        ],
+        "high": "CRP ज़्यादा होने का मतलब है कि कहीं सूजन है: इंफ़ेक्शन, चोट, गठिया या कोई दूसरी सूजन वाली बीमारी। बहुत ज़्यादा (लगभग 100 mg/L से ऊपर) होना अक्सर बैक्टीरियल इंफ़ेक्शन का संकेत है। CRP यह नहीं बताता कि समस्या कहाँ है।",
+        "low": "CRP कम होना सामान्य है।",
+        "act": "अगर CRP बुखार के साथ ज़्यादा है, या लगभग 50 mg/L से ऊपर है, तो जल्दी डॉक्टर को दिखाएँ।",
+        "ask": [
+          "सूजन की वजह क्या हो सकती है?",
+          "क्या एंटीबायोटिक या दूसरी जाँच चाहिए?",
+          "CRP दोबारा कब कराना है?"
+        ]
+      },
+      "printed": [
+        "CRP",
+        "C-Reactive Protein"
+      ]
+    },
+    {
+      "slug": "rheumatoid-factor",
+      "code": "RF",
+      "group": "inflammation",
+      "en": {
+        "name": "Rheumatoid factor (RF)",
+        "what": "Rheumatoid factor is an antibody. The test helps doctors check for rheumatoid arthritis, a disease in which the body's defence system attacks the joints.",
+        "range": [
+          "Usually negative: below about 14 IU/mL (labs differ: some use 20)"
+        ],
+        "high": "A positive RF together with painful, swollen joints supports rheumatoid arthritis. But RF can also be positive with other conditions and in some healthy older people, and about 1 in 4 people with rheumatoid arthritis have a negative RF. The doctor reads it with your symptoms and an anti-CCP test.",
+        "low": "A negative RF is the usual result. It does not fully rule out rheumatoid arthritis.",
+        "act": "See a doctor if you have painful, swollen joints, especially the small joints of the hands, with morning stiffness that lasts more than 30 minutes.",
+        "ask": [
+          "Do I need an anti-CCP test?",
+          "Should I see a rheumatologist (joint specialist)?"
+        ]
+      },
+      "hi": {
+        "name": "रूमेटॉइड फ़ैक्टर (RF)",
+        "what": "रूमेटॉइड फ़ैक्टर एक एंटीबॉडी है। यह जाँच डॉक्टर को रूमेटॉइड आर्थराइटिस देखने में मदद करती है, ऐसी बीमारी जिसमें शरीर की रक्षा-प्रणाली जोड़ों पर हमला करती है।",
+        "range": [
+          "आमतौर पर नेगेटिव: लगभग 14 IU/mL से कम (लैब के हिसाब से बदलता है: कुछ 20 मानती हैं)"
+        ],
+        "high": "जोड़ों में दर्द और सूजन के साथ RF पॉज़िटिव होना रूमेटॉइड आर्थराइटिस की ओर इशारा करता है। लेकिन RF दूसरी स्थितियों में और कुछ स्वस्थ बुज़ुर्गों में भी पॉज़िटिव हो सकता है, और रूमेटॉइड आर्थराइटिस वाले लगभग 4 में से 1 व्यक्ति का RF नेगेटिव होता है। डॉक्टर इसे आपके लक्षणों और anti-CCP जाँच के साथ पढ़ते हैं।",
+        "low": "RF नेगेटिव होना सामान्य नतीजा है। इससे रूमेटॉइड आर्थराइटिस पूरी तरह ख़ारिज नहीं होता।",
+        "act": "अगर जोड़ों में दर्द और सूजन है, ख़ासकर हाथों के छोटे जोड़ों में, और सुबह की जकड़न 30 मिनट से ज़्यादा रहती है, तो डॉक्टर को दिखाएँ।",
+        "ask": [
+          "क्या anti-CCP जाँच करानी चाहिए?",
+          "क्या रूमेटोलॉजिस्ट (जोड़ों के विशेषज्ञ) को दिखाना चाहिए?"
+        ]
+      },
+      "printed": [
+        "Rheumatoid factor",
+        "Rheumatoid Factor, Serum",
+        "Serum Rheumatoid Factor",
+        "RF",
+        "RA Factor",
+        "RA Factor Quantitative",
+        "Rheumatoid Factor Quantitative"
+      ]
+    }
+  ]
+}
