@@ -110,7 +110,7 @@ ${body}
 </main>
 <footer>
   <p>${esc(UI[lang].disclaimer)}</p>
-  <p>Kindred is a product of Forge Consultancy, Bahadurgarh, Haryana, India. <a href="https://daiict218.github.io/kindred-legal/">Privacy Notice</a> · <a href="mailto:ajaygaur319@gmail.com">Contact</a></p>
+  <p>Kindred is a product of Forge Consultancy, Bahadurgarh, Haryana, India. <a href="https://daiict218.github.io/kindred-legal/">Privacy Notice</a> · <a href="mailto:kindred.health.app@gmail.com">Contact</a></p>
 </footer>
 </body>
 </html>
@@ -250,7 +250,7 @@ ${data.tests.map((t) => `- [${t.hi.name}](${SITE}${path('hi', t.slug)}): ${t.hi.
 - [Home](${SITE}/)
 - [Start on WhatsApp](${WHATSAPP_SITE})
 - [Privacy Notice](https://daiict218.github.io/kindred-legal/)
-- Contact: ajaygaur319@gmail.com
+- Contact: kindred.health.app@gmail.com
 `);
 
 console.log(`${LANGS.length * (data.tests.length + 1)} pages, sitemap.xml, llms.txt`);
